@@ -1,0 +1,1 @@
+Implementation of image inpainting using Context-Encoders. Trained our model on the LFW dataset.
