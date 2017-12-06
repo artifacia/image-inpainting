@@ -1,6 +1,6 @@
 # Image Inpainting using Context Encoders
 
-In this project, I have trained a Deep Convolutional Network to generate missing portions of an input image. The method used is is inspired by [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379). A potential application of this project is the digital restoration of damaged images.
+In this project, I have trained a Deep Convolutional Network to generate missing portions of an input image. The method used is inspired by [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379). A potential application of this project is the digital restoration of damaged images.
 
 ### Prerequisites
 
