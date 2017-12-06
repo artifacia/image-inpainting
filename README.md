@@ -12,7 +12,7 @@ In order to clone and reproduce results from this repository, you will need to i
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Feel free to clone and add extensions. Pull Requests are welcome.
 
 ## Authors
 
