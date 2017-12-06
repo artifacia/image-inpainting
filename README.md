@@ -23,11 +23,4 @@ Feel free to clone and add extensions. Pull Requests are welcome.
 * [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379)
 
 ## Output samples:
-![Output sample 1](Output/IMG_42400_2.jpg "Output sample 1") 
-
-
-![Output sample 2](Output/IMG_42400_3.jpg "Output sample 2")
-
-
-![Output sample 3](Output/IMG_42200_2.jpg "Output sample 3")
-
+![Output sample 1](Output/image_inp_full.png "Output sample 1") 
